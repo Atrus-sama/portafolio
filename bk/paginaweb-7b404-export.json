@@ -1,0 +1,21 @@
+{
+  "equipo" : [ {
+    "frase" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+    "nombre" : "Juan Osuna",
+    "subtitulo" : "Ahí estamos!!",
+    "twitter" : "@robertwilliams",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/paginaweb-7b404.appspot.com/o/team-1.jpg?alt=media&token=78d01155-13a7-4d9b-b972-60d2eaf19f7f"
+  }, {
+    "frase" : "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+    "nombre" : "Fernando Herrera",
+    "subtitulo" : "Instructor",
+    "twitter" : "@fernando_her85",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/paginaweb-7b404.appspot.com/o/team-2.jpg?alt=media&token=d469a0e8-fed0-4995-92fb-d50ffe78221b"
+  }, {
+    "frase" : "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "nombre" : "Jose Antonio Puech",
+    "subtitulo" : "Mumbru!!",
+    "twitter" : "@PuechMachine",
+    "url" : "https://firebasestorage.googleapis.com/v0/b/paginaweb-7b404.appspot.com/o/team-3.jpg?alt=media&token=2ff79474-62d2-412e-82d4-dd668c35ef8e"
+  } ]
+}
