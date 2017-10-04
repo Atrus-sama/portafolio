@@ -20,7 +20,7 @@ export class ProductoComponent implements OnInit {
 
       _ps.cargar_producto(data.id).subscribe(prod => {
         this.producto = prod.json();
-        console.log(this.producto);
+        // console.log(this.producto);
       })
     })
 
